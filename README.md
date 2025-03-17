@@ -6,7 +6,7 @@ Nguyễn Tấn Dũng*
 
 FPT University, Hoa Lac High Tech Park, Hanoi, Viet Nam
 
- * e-mail: dungnthe171089@fpt.edu.vn
+ * e-mail: nguyendung16042003@gmail.com
 
  Tóm tắt:  –Bài nghiên cứu này trình bày một phương pháp để ước lượng mật độ giao thông theo thời gian thực, qua việc áp dụng mô hình deep learning YOLOv8. Mục tiêu của nghiên cứu là hỗ trợ bước đầu cho việc phát triển một ứng dụng có khả năng ước lượng mật độ giao thông trên các tuyến đường khác nhau, cung cấp dữ liệu tức thời cho người dùng về tình hình giao thông hiện tại tại quãng đường đó.
            
