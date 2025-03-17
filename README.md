@@ -1,6 +1,6 @@
 
 
-Real-Time Traffic Density Estimation 
+Real-Time Traffic Density Estimation YOLOv8
 
 Nguyễn Tấn Dũng*
 
